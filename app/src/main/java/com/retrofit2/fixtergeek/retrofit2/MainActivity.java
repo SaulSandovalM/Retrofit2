@@ -44,6 +44,7 @@ public class MainActivity extends AppCompatActivity {
 
                         for (Instructor i : c.instructors){
                             Log.i("TAG", i.name);
+                            Log.i("TAG", i.bio);
                         }
 
                         Log.i("TAG", "-------");

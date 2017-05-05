@@ -7,5 +7,5 @@ package com.retrofit2.fixtergeek.retrofit2.models;
 public class Instructor {
 
     public String name;
-
+    public String bio;
 }
